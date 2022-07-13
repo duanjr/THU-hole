@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 96504, "reply": 0, "tag": null, "text": "为何excel拟合直线折线图的斜率刚好是拟合成点状图的两倍，但是截距和R^2两者都相等\n我这是发现了excel的bug吗", "timestamp": 1603068950, "type": "text", "updated_at": 1606782637, "url": "", "vote": {}}}

@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 2, "pid": 409692, "reply": 0, "tag": null, "text": "请问有无懂django的洞友呀，想请教一下如果想要实现上传数据存储在数据服务器A，用户在线处理结果存储在服务器B，用户下载会把A和B的成对数据下载，有没有什么实现的思路qwq", "timestamp": 1626859008, "type": "text", "updated_at": 1626859008, "url": "", "vote": {}}}

@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 0, "pid": 7663, "reply": 0, "tag": null, "text": "萌新求助怎样才能使用github actions把django部署到github pages上，dz不太会改settings.py，网上也没查到相关的资料。\n[这](https://paste.ubuntu.com/p/dYYDSzV2bR/)是我的django.yml文件。\n\n", "timestamp": 1593162448, "type": "text", "updated_at": 1606782587, "url": "", "vote": {}}}

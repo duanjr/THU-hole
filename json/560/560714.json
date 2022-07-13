@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 560714, "reply": 0, "tag": null, "text": "excel 中如果a2中为一文本，想把文本前后都加上引号，为什么公式可写为＝\"\"\"\"&a2&\"\"\"\"  为什么前后都是加上四个引号啊，我怎么感觉应该是加上三个引号呢", "timestamp": 1637039141, "type": "text", "updated_at": 1637039141, "url": "", "vote": {}}}

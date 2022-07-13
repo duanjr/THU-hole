@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 425995, "reply": 0, "tag": null, "text": "哎 为啥用了StandardScaler()之后用ElasticNetCV得到的所有系数都是0，不用反而有几个不是0", "timestamp": 1627993022, "type": "text", "updated_at": 1627993022, "url": "", "vote": {}}}

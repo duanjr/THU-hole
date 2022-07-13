@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 160205, "reply": 0, "tag": null, "text": "感觉ns-3好好用, 比起ns-2好用多了. 在ns-3里边, 如果改动了源代码, 在编译示例程序的时候就顺带把源代码编译了,  不用单独编译源代码, 感觉好方便.", "timestamp": 1608858098, "type": "text", "updated_at": 1608858098, "url": "", "vote": {}}}

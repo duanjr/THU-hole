@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 0, "pid": 90106, "reply": 0, "tag": null, "text": "求问线性回归方程里的这个公式是b的标准差还是标准偏差啊？(这两个东西好像不一样？)\nS(b)=b$\\sqrt \\frac{\\frac{1}{r^2}-1}{k-2}$", "timestamp": 1602341975, "type": "text", "updated_at": 1606782632, "url": "", "vote": {}}}

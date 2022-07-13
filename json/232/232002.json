@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 232002, "reply": 0, "tag": null, "text": "一道线代题\nA和B是两个n阶方阵，^t代表它们的转置。已知AB=0。求证：ker(B^t)直和ker(A)直和Im(A^tA+BB^t)是R^n", "timestamp": 1614672735, "type": "text", "updated_at": 1614672735, "url": "", "vote": {}}}

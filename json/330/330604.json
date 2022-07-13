@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 1, "pid": 330604, "reply": 0, "tag": null, "text": "求问树洞的tecplot高手，tecplot能否对整个流场的物理量做一个这样的积分：∫（-∞,Y）f(x)dx 这里Y是流场的一个物理量", "timestamp": 1621355999, "type": "text", "updated_at": 1621355999, "url": "", "vote": {}}}

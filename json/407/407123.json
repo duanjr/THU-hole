@@ -1,0 +1,1 @@
+{"code": 0, "data": [], "post": {"deleted": false, "image_metadata": {}, "likenum": 0, "pid": 407123, "reply": 0, "tag": null, "text": "X[0]=1\nX[n+1]=Random(1,2*X[n]) for all n>=0\n\n怀念狂按计算器，最大到过五位数的时光", "timestamp": 1626619164, "type": "text", "updated_at": 1626619164, "url": "", "vote": {}}}
